@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font: 400 16px/26px 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.wrapper{
+    height: 2118px;
+    background: linear-gradient(228.57deg, #323264 11.93%, #323264 57.17%, #643E72 87.46%)
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    &:hover{
+        text-decoration: underline;
+    }
+}
+
+//input[type='submit'] {
+//    -webkit-appearance: none;
+//    -moz-appearance: none;
+//    appearance: none;
+//}
